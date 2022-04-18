@@ -68,7 +68,7 @@ def background_main(bot,subscibe_address_list,prev_data,new_data) :
 
 # print(len(result))
 # print(result[0]['blockNumber'])
-subscibe_address_list = ['1205802901'] #initial wallet 1205802901
+subscibe_address_list = ['1086636729'] #initial wallet @cherealx
 bot = telebot.TeleBot(BOT_KEY, parse_mode=None)
 prev_data = {}
 new_data = {}
